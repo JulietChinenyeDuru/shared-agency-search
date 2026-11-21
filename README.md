@@ -93,7 +93,7 @@ streamlit run app.py    # interactive web interface
 
 ## Author
 
-Juliet Chinenye Duru · MSc Information Technology (Distinction), University of the West of Scotland · ORCID [0009-0002-0530-8082](https://orcid.org/0009-0002-0530-8082)
+Juliet Chinenye Duru  ORCID [0009-0002-0530-8082](https://orcid.org/0009-0002-0530-8082)
 
 Related work: [KG-SentIF](https://github.com/JulietChinenyeDuru/kg-sentif), a knowledge-graph-enhanced sentiment intelligence framework.
 
